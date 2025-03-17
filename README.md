@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**krishnaraj28/krishnaraj28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Computer Applications student passionate about coding & tech. and innovation. I enjoy exploring new technologies, working on projects, and contributing to open-source.
 
-Here are some ideas to get you started:
+## Projects
+🚀 Here are some projects I’ve worked on:
+- **Buddy-Mental Health Support Platform** (Django-based)
+- **Flashcard Application** (Tkinter & JSON)
+- **AMS-Alumni Management System** (PHP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and collaborate on interesting projects! 😊
+
