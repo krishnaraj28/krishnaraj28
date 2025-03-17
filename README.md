@@ -5,9 +5,10 @@
 
 ## Projects
 🚀 Here are some projects I’ve worked on:
-- **Buddy-Mental Health Support Platform** (Django-based)
+- **Buddy-Mental Health Support Platform** (Python,Django)
+- - **AMS-Alumni Management System** (PHP)
 - **Flashcard Application** (Tkinter & JSON)
-- **AMS-Alumni Management System** (PHP)
+
 
 Feel free to explore my repositories and collaborate on interesting projects! 😊
 
