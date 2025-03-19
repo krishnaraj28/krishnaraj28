@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-🎓 Computer Applications student passionate about coding & tech. and innovation. I enjoy exploring new technologies and working on projects.
+🎓 Computer Applications student passionate about coding & tech and innovation. I enjoy exploring new technologies and working on projects.
 
 ## Projects
 🚀 Here are some projects I’ve worked on:
